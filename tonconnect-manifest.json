@@ -1,7 +1,8 @@
+
 {
   "url": "https://t.me/StarXTRBot",
   "name": "StarsBot",
-  "iconUrl": "https://raw.githubusercontent.com/arturr55/Website/main/icon.png",
-  "termsOfUseUrl": "https://raw.githubusercontent.com/arturr55/Website/main/terms",
-  "privacyPolicyUrl": "https://raw.githubusercontent.com/arturr55/Website/main/privacy"
+  "iconUrl": "https://github.com/arturr55/Website/blob/main/icon.png",
+  "termsOfUseUrl": "https://github.com/arturr55/Website/blob/main/terms",
+  "privacyPolicyUrl": "https://github.com/arturr55/Website/blob/main/privacy"
 }
