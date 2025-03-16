@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        // Получаем параметр tc из URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const tcUrl = urlParams.get('tc');
+        if (tcUrl) {
+            window.location.href = tcUrl.replace('tc:', 'tc://');
+        }
+    </script>
+</head>
+<body>
+    <p>Перенаправление в TonKeeper...</p>
+</body>
+</html>
